@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="smallcontainer"
+>
+  <div>
+    <h1>
+      Repository user search
+    </h1>
+  </div>
+  <form
+    onSubmit={[Function]}
+  >
+    <label>
+      User Search: 
+    </label>
+    <input
+      onChange={[Function]}
+      type="text"
+      value="User"
+    />
+    <input
+      type="submit"
+    />
+  </form>
+</div>
+`;
